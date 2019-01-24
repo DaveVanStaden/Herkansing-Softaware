@@ -18,8 +18,9 @@ De game moest ik in VR bouwen, Unity heeft al de juiste componenten om met de HT
 
 ## Planning 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
+| --- | --- | --- | --- | --- | --- |
 |week 1 | Onderzoek doen naar coderen binnen VR | AI maken voor pathfinding | AI Verder maken voor pathfinding | Ai afmaken | Schieten op objecten mogenlijk maken | Schieten afmaken |
-|week 2 | Score Systeem maken die score bijhoud | Wapon Swap toevoegen | Extra wapens toevoegen | Unlockables maken(wapens/extensies/map Uitbreiding) | Unlockables afmaken| Filmpje maken en opsturen ||
+|week 2 | Score Systeem maken die score bijhoud | Wapon Swap toevoegen | Extra wapens toevoegen | Unlockables maken(wapens/extensies/map Uitbreiding) | Unlockables afmaken| Filmpje maken en opsturen |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
